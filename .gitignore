@@ -1,0 +1,19 @@
+# Environments
+venv/
+FastAPIEnv/
+env/
+.env
+
+# Pycache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# macOS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+*.swp
